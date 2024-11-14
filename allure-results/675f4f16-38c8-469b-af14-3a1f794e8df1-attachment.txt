@@ -1,0 +1,2 @@
+Teams verification error: Name mismatch for block 'teams': Expected 'Teams', but found 'Find your calling'
+Locations verification error: Name mismatch for block 'locations': Expected 'Locations', but found 'Our Locations'

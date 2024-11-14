@@ -1,0 +1,1 @@
+Waited 5 seconds for the page to load.

@@ -1,0 +1,17 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"failed","Thu Nov 14 02:13:35 CET 2024","Thu Nov 14 02:14:30 CET 2024","55211","tests","test_insider","","","","Test navigation and verification on Insider Careers page","
+Test case to verify key steps on the Insider website:
+1. Navigate to the Careers page and open Careers section.
+2. Verify the presence of key blocks with expected names on the Careers page.
+3. Navigate to the QA job listings page.
+4. Apply location and department filters on the QA jobs listing.
+5. Confirm navigation to the Lever application form after clicking 'View Role' on a job listing.
+"
+"failed","Thu Nov 14 02:12:03 CET 2024","Thu Nov 14 02:13:06 CET 2024","63816","tests","test_insider","","","","Test navigation and verification on Insider Careers page","
+Test case to verify key steps on the Insider website:
+1. Navigate to the Careers page and open Careers section.
+2. Verify the presence of key blocks with expected names on the Careers page.
+3. Navigate to the QA job listings page.
+4. Apply location and department filters on the QA jobs listing.
+5. Confirm navigation to the Lever application form after clicking 'View Role' on a job listing.
+"
